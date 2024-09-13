@@ -5,5 +5,3 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here.
-Hello Sigmas
