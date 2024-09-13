@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /cookieclicker/
+title: Cookie Clicker
+comments: True
 ---
 <html lang="en">
 <head>

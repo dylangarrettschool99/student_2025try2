@@ -108,8 +108,8 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-color: #FD0E0E;
+  background-image: linear-gradient(120deg, #FDA50E, #FD0E0E);
 
   @include large {
     padding: 5rem 6rem;
@@ -375,4 +375,15 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #F0F0F0;
+  margin: 0;
+  padding: 0px;
+}
+h1 {
+  margin-top: 0;
+  color: #B11818;
+  text-align: center;
 }
