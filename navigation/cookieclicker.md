@@ -3,7 +3,6 @@ layout: page
 title: Cookie Clicker
 permalink: /cookieclicker/
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
