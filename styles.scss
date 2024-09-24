@@ -1,0 +1,26 @@
+// Variables in SASS
+$bg-color: #333;
+$bg-a-color: white;
+$bg-a-hover-color: #ff0;
+
+// Navigation styles
+nav {
+    background-color: $bg-color;
+
+    ul {
+        list-style: none;
+
+        li {
+            display: inline-block;
+
+            a {
+                color: $bg-a-color;
+                text-decoration: none;
+
+                &:hover {
+                    color: $bg-a-hover-color;
+                }
+            }
+        }
+    }
+}
